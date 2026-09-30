@@ -1,87 +1,87 @@
 1
-00:00:00,150 --> 00:00:02,381
+00:00:00,300 --> 00:00:02,170
 Alarm yok. İş yok. Fatura yok.
 
 2
-00:00:02,594 --> 00:00:05,038
+00:00:02,770 --> 00:00:04,830
 Peki ilk insanlar bütün gün ne yapardı?
 
 3
-00:00:05,650 --> 00:00:06,968
+00:00:05,760 --> 00:00:06,810
 Gün, güneşle başlardı.
 
 4
-00:00:07,156 --> 00:00:11,062
+00:00:07,300 --> 00:00:10,870
 Mağarada ya da deri çadırlarda, hayvan postlarının üstünde uyanırlardı.
 
 5
-00:00:11,650 --> 00:00:14,453
+00:00:11,810 --> 00:00:14,210
 İlk iş, gece boyunca korunan ateşi canlandırmaktı.
 
 6
-00:00:14,639 --> 00:00:18,563
+00:00:14,780 --> 00:00:18,330
 Çünkü ateş; sıcaklık, ışık ve vahşi hayvanlara karşı koruma demekti.
 
 7
-00:00:19,150 --> 00:00:20,412
+00:00:19,170 --> 00:00:20,200
 Sonra grup dağılırdı.
 
 8
-00:00:20,623 --> 00:00:24,252
+00:00:20,770 --> 00:00:24,060
 Bir kısmı meyve, kök, fındık ve yabani bitki toplardı.
 
 9
-00:00:24,462 --> 00:00:27,040
+00:00:24,660 --> 00:00:26,780
 Günlük besinin büyük kısmı buradan gelirdi.
 
 10
-00:00:27,650 --> 00:00:29,314
+00:00:27,800 --> 00:00:29,090
 Diğerleri ise ava çıkardı.
 
 11
-00:00:29,536 --> 00:00:33,087
+00:00:29,690 --> 00:00:32,870
 Mızraklarla saatlerce iz sürer, geyikleri kovalarlardı.
 
 12
-00:00:33,309 --> 00:00:35,528
+00:00:33,480 --> 00:00:35,290
 Ama çoğu zaman eli boş dönerlerdi.
 
 13
-00:00:36,150 --> 00:00:37,120
+00:00:36,270 --> 00:00:36,970
 İşin ilginç yanı:
 
 14
-00:00:37,314 --> 00:00:42,986
+00:00:37,460 --> 00:00:42,810
 Bazı antropologlara göre avcı toplayıcılar, yiyecek bulmak için günde sadece dört beş saat harcardı.
 
 15
-00:00:43,180 --> 00:00:43,762
+00:00:43,270 --> 00:00:43,610
 Gerisi mi?
 
 16
-00:00:43,956 --> 00:00:45,556
+00:00:44,090 --> 00:00:45,400
 Dinlenmek, sohbet ve uyku.
 
 17
-00:00:46,150 --> 00:00:50,780
+00:00:46,320 --> 00:00:50,520
 Boş vakitlerde taşları yontup alet yapar, mağara duvarlarına resimler çizerlerdi.
 
 18
-00:00:50,977 --> 00:00:52,553
+00:00:51,100 --> 00:00:52,390
 Bazıları bugün hâlâ duruyor!
 
 19
-00:00:53,150 --> 00:00:56,034
+00:00:53,320 --> 00:00:55,810
 Akşam olunca herkes ateşin başında toplanırdı.
 
 20
-00:00:56,256 --> 00:00:59,528
+00:00:56,430 --> 00:00:59,340
 Et pişirilir, paylaşılır ve hikâyeler anlatılırdı.
 
 21
-00:01:00,150 --> 00:01:03,420
+00:01:00,330 --> 00:01:03,160
 Sence sen o çağda bir gün bile dayanabilir miydin?
 
 22
-00:01:03,642 --> 00:01:04,528
+00:01:03,770 --> 00:01:04,350
 Yorumlara yaz!
