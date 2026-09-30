@@ -3,7 +3,7 @@
 [Remotion](https://www.remotion.dev) (React) ile tamamen kodla çizilip canlandırılmış, 65 saniyelik
 dikey kısa video (YouTube Shorts / Reels / TikTok, 1080×1920).
 
-- Seslendirme metni ve saniyeler: **[SESLENDIRME_METNI.md](SESLENDIRME_METNI.md)**
+- Seslendirme metni ve saniyeler: **[SESLENDIRME_METNI.md](SESLENDIRME_METNI.md)** · SRT formatında: **[seslendirme.srt](seslendirme.srt)**
 - Hazır video: `npm run render` komutu `out/ilk-insanlar.mp4` dosyasını üretir
 
 ## Kurulum
